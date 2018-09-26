@@ -1,8 +1,6 @@
 # Domains Awesome
 A curated list of awesome domains for sale.
 
-Contributing
-Please take a quick gander at the contribution guidelines first. Thanks to all contributors!
 
 - [1024km.com](http://1024km.com)
 
